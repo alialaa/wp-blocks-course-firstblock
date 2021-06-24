@@ -22,6 +22,7 @@
     "@wordpress/scripts": "^16.1.3"
   },
   "dependencies": {
+    "@wordpress/block-editor": "^6.1.5",
     "@wordpress/blocks": "^9.1.4"
   }
 }
